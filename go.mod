@@ -13,7 +13,7 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-version v1.6.0
 	github.com/miekg/dns v1.1.50
-	github.com/oschwald/maxminddb-golang v1.9.0
+	github.com/oschwald/maxminddb-golang v1.10.0
 	github.com/safing/portbase v0.14.5
 	github.com/safing/spn v0.4.12
 	github.com/shirou/gopsutil v3.21.11+incompatible
@@ -24,7 +24,7 @@ require (
 	github.com/umahmood/haversine v0.0.0-20151105152445-808ab04add26
 	golang.org/x/net v0.0.0-20220622184535-263ec571b305
 	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f
-	golang.org/x/sys v0.0.0-20220622161953-175b2fd9d664
+	golang.org/x/sys v0.0.0-20220804214406-8e32c043e418
 )
 
 require (
