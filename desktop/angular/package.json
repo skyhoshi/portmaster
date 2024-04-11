@@ -48,7 +48,7 @@
     "d3": "^7.8.4",
     "data-urls": "^5.0.0",
     "emoji-toolkit": "^7.0.1",
-    "fuse.js": "^6.6.2",
+    "fuse.js": "^7.0.0",
     "ng-zorro-antd": "^16.1.0",
     "ngx-markdown": "^16.0.0",
     "postcss": "^8.4.23",
